@@ -18,7 +18,7 @@ A simple REST API for managing todos built with Express.js.
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/txkachi/todo-api
 cd todo-api
 ```
 
